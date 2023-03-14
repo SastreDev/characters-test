@@ -1,4 +1,4 @@
-# Caracters code challenge
+# Characters code challenge
 
 Example of code challege.
 
